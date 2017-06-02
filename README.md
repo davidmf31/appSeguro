@@ -1,0 +1,2 @@
+# appSeguro
+Xamarin forms project
